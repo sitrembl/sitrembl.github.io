@@ -7,14 +7,14 @@ DWR_VERSION_500 = true;
 TITLE = "Arbre de Louis Tremblay";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 477,
-    "F": 299,
-    "I": 523,
+    "C": 7,
+    "F": 5,
+    "I": 7,
     "M": 0,
-    "N": 247,
-    "P": 215,
+    "N": 4,
+    "P": 10,
     "R": 0,
-    "S": 52
+    "S": 3
 };NB_GENERATIONS_MAX = 15;
 PAGES_FILE = ["tree_svg.html", "index.html", ""];
 PAGES_TITLE = ["Arbre", "Acceuil", "Index"];
@@ -67,7 +67,7 @@ SVG_TREE_COLOR_SCHEME0 = ["#ffffff", "#ffffff"];
 SVG_TREE_COLOR_SCHEME1 = ["#ff3f00", "#ffaf0f", "#ffdf57", "#ffff6f", "#9fff9f", "#6fd7ff", "#4f97ff", "#e717ff", "#e71779", "#d2aa7c", "#bd9970"];
 SVG_TREE_COLOR_SCHEME2 = ["#e5bffc", "#bfbffc", "#bfdefc", "#b7dbc5", "#cef6d1"];
 FOOTER="";
-HEADER="<div class=\"grampsstylednote\">\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<html>\n    <a href=\"..\\index.html\">Retour à l´index</a><br/>\n</html>\n</div>";
+HEADER="<div class=\"grampsstylednote\">\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<html>\n    <a href=\"..\\index.html\">Retour à l´index</a><br/>\nRapport généré le 2022-03-09\n</html>\n</div>";
 BRAND_TITLE="";
 COPYRIGHT="";
 INDEX_SURNAMES_TYPE=true;
