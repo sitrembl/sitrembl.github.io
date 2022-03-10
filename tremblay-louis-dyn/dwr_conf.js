@@ -7,14 +7,14 @@ DWR_VERSION_500 = true;
 TITLE = "Arbre de Louis Tremblay";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 7,
-    "F": 5,
-    "I": 7,
+    "C": 477,
+    "F": 299,
+    "I": 523,
     "M": 0,
-    "N": 4,
-    "P": 10,
+    "N": 247,
+    "P": 215,
     "R": 0,
-    "S": 3
+    "S": 52
 };NB_GENERATIONS_MAX = 15;
 PAGES_FILE = ["tree_svg.html", "index.html", ""];
 PAGES_TITLE = ["Arbre", "Acceuil", "Index"];
